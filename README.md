@@ -19,12 +19,15 @@ COMMUNITIES
 - StackOverflow
 
 **PROGRESS BARS**
+- NProgress(http://ricostacruz.com/nprogress/)
 
 **NAVGATION**
 
 **BUTTONS**
 
 **NOTIFICATION**
+- NotifyJs(https://notifyjs.com)
+
 
 **TEXT ANIMATIONS**
 
@@ -33,11 +36,16 @@ COMMUNITIES
 **DATA COLLECTION**
 
 **CHARTS**
+- ChartJs
+-
 
 **IMAGE GALLERY**
 
 **FORM BUILDERS**
 
 **ALERT BOX**
+- AlertifyJs(http://alertifyjs.com/)
+- Jquery-Confirm(https://craftpip.github.io/jquery-confirm/)
 
 **SURVEY**
+- Survey.js(http://surveyjs.org/)
