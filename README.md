@@ -56,5 +56,7 @@ These are popular extended frameworks on steroids!They usually contain anditiona
 - Morris.js (http://www.flotcharts.org/)
 - DyGraphs (http://dygraphs.com/)
 
-**IMAGE GALLERY**
+**IMAGE**
 - Jsor (www.jsor.org)
+- Placehold (https://placehold.it/)
+- Lorempixel (http://lorempixel.com/)
