@@ -5,16 +5,20 @@ This repository is a compilation of some front end developer libraries. As a dev
 **FRONTEND FRAMEWORKS**
 Instead of building pages form scratch  why not use framworks?.Learning a good web framework makes your life much easier. A list of some good web frameworks that are helping developers today.
 
-- Bootstrap:
-- Foundation
-- Material Design
-- Symantic Ui
+- Bootstrap: (www.getbootstrap.com)
+- Foundation (http://foundation.zurb.com/)
+- Material Design() 
+- Symantic Ui (https://semantic-ui.com/)
+
+**FRONTEND FRAMEWORK EXTENDED LIBRARIES**
+- FuelUx (http://getfuelux.com/)
+- Material Bootstrap (https://mdbootstrap.com/material-design-for-bootstrap/)
 
 **USER INTERFACE SNIPPETS** 
    
 - Codepen (https://codepen.io/)
 - Bootsnip (http://bootsnipp.com/)
-- JsFiddle
+
 
 COMMUNITIES
 - StackOverflow
@@ -27,6 +31,9 @@ COMMUNITIES
 **BUTTONS**
 
 **ICONS**
+- FlatIcon (http://www.flaticon.com/)
+- Material Icons (https://material.io/icons/)
+- Font Awesome Icons (http://fontawesome.io/icons/)
 
 **NOTIFICATION**
 - NotifyJs (https://notifyjs.com)
