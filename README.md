@@ -1,4 +1,4 @@
-Front-End_Web_Developer_Libraries  <img src="https://img.shields.io/crates/l/rustc-serialize.svg"/>
+**WEB TOOLBOX**  <img src="https://img.shields.io/crates/l/rustc-serialize.svg"/>
 
 This repository is a compilation of some front end developer libraries. As a developer there is no need in reinventing the wheel, you can meet your deadines easier by working with libraries. What you thinking of might have beeen done already, so why do it all over again..such a time waste. Below are some useful libraries that can make your front-end development fun.
 
@@ -16,20 +16,16 @@ Instead of building pages form scratch  why not use framworks?.Learning a good w
 - MaterialCss[Beta] (http://materializecss.com/)
 
 **USER INTERFACE SNIPPETS** 
-   
+  
 - Codepen (https://codepen.io/)
 - Bootsnip (http://bootsnipp.com/)
 
-
-COMMUNITIES
-- StackOverflow
+**COMMUNITIES**
+- StackOverflow (https://www.stackoverflow.com)
+- Codepen (https://codepen.io/)
 
 **PROGRESS BARS**
 - NProgress (http://ricostacruz.com/nprogress/)
-
-**NAVGATION**
-
-**BUTTONS**
 
 **ICONS**
 - FlatIcon (http://www.flaticon.com/)
@@ -40,9 +36,11 @@ COMMUNITIES
 - NotifyJs (https://notifyjs.com)
 
 
-**TEXT ANIMATIONS**
+**ANIMATIONS**
+- AnimateCss (https://daneden.github.io/animate.css/)
+- Hover.Css (http://ianlunn.github.io/Hover/)
+- Texilate.JS (http://textillate.js.org/)
 
-**NEWS TICKERS**
 
 **DATAGRID**
 - Bootstrap Table (http://bootstrap-table.wenzhixin.net.cn/)
@@ -60,8 +58,6 @@ COMMUNITIES
 - Jsor (www.jssor.com/)
 - Placehold (https://placehold.it/)
 - LoremPixel (http://lorempixel.com/)
-
-**FORM BUILDERS**
 
 **ALERT BOX**
 - AlertifyJs (http://alertifyjs.com/)
