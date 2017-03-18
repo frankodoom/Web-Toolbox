@@ -1,16 +1,18 @@
 **WEB TOOLBOX**  <img src="https://img.shields.io/crates/l/rustc-serialize.svg"/>
 
-As a developer there is no need to "reinventing the wheel", you can meet your deadines easier by working with libraries and frameworks. What you thinking of might have beeen done already, so why do it all over again..such a time waste . Below are some useful libraries that can make your front-end development fun.
+As a web developer, there is no need to "reinvent the wheel", you can meet your deadines easier by working with libraries and frameworks. What you are thinking of might have beeen done already, so why do it all over again..such a time waste!. Below are some useful libraries that can make your front-end development fun.
 
 **FRONTEND FRAMEWORKS**
-Instead of building pages form scratch  why not use framworks?.Learning a good web framework makes your life much easier. A list of some good web frameworks that are helping developers today.
+Instead of building your Html, CSS & JS from scratch why not use framworks?.Learning a good web framework makes your life much easier.
 
-- Bootstrap: (www.getbootstrap.com)
+- Bootstrap:(www.getbootstrap.com)
 - Foundation (http://foundation.zurb.com/)
 - Material Design() 
 - Symantic Ui (https://semantic-ui.com/)
 
 **FRONTEND FRAMEWORK EXTENDED LIBRARIES**
+These are popular extended frameworks on steroids!They usually contain anditional functionality or enhanced tweaks in  styling from base framework they derive from.
+  
 - FuelUx (http://getfuelux.com/)
 - Material Bootstrap (https://mdbootstrap.com/material-design-for-bootstrap/)
 - MaterialCss[Beta] (http://materializecss.com/)
@@ -55,13 +57,4 @@ Instead of building pages form scratch  why not use framworks?.Learning a good w
 - DyGraphs (http://dygraphs.com/)
 
 **IMAGE GALLERY**
-- Jsor (www.jssor.com/)
-- Placehold (https://placehold.it/)
-- LoremPixel (http://lorempixel.com/)
-
-**ALERT BOX**
-- AlertifyJs (http://alertifyjs.com/)
-- Jquery-Confirm (https://craftpip.github.io/jquery-confirm/)
-
-**SURVEY**
-- Survey.js (http://surveyjs.org/)
+- Jsor (www.j
