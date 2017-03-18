@@ -13,6 +13,7 @@ Instead of building pages form scratch  why not use framworks?.Learning a good w
 **FRONTEND FRAMEWORK EXTENDED LIBRARIES**
 - FuelUx (http://getfuelux.com/)
 - Material Bootstrap (https://mdbootstrap.com/material-design-for-bootstrap/)
+- MaterialCss[Beta] (http://materializecss.com/)
 
 **USER INTERFACE SNIPPETS** 
    
@@ -57,6 +58,8 @@ COMMUNITIES
 
 **IMAGE GALLERY**
 - Jsor (www.jssor.com/)
+- Placehold (https://placehold.it/)
+- LoremPixel (http://lorempixel.com/)
 
 **FORM BUILDERS**
 
