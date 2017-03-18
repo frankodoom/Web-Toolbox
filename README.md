@@ -57,4 +57,4 @@ These are popular extended frameworks on steroids!They usually contain anditiona
 - DyGraphs (http://dygraphs.com/)
 
 **IMAGE GALLERY**
-- Jsor (www.j
+- Jsor (www.jsor.org)
