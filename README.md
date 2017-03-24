@@ -50,6 +50,10 @@ These are popular extended frameworks on steroids!They usually contain anditiona
 - AgGrid (https://www.ag-grid.com/)
 - JTable (http://www.jtable.org/)
 
+
+**FORM VALIDATION**
+- Form Validation (http://formvalidation.io/)
+
 **CHARTS**
 - ChartJs (http://www.chartjs.org/)
 - Flot Charts (http://www.flotcharts.org/)
