@@ -37,6 +37,7 @@ These are popular extended frameworks on steroids!They usually contain anditiona
 
 **NOTIFICATION**
 - NotifyJs (https://notifyjs.com)
+- Toastr (https://codeseven.github.io/toastr/)
 
 
 **ANIMATIONS**
