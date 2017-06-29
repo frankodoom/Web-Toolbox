@@ -29,6 +29,7 @@ These are popular extended frameworks on steroids!They usually contain anditiona
 
 **PROGRESS BARS**
 - NProgress (http://ricostacruz.com/nprogress/)
+- Pace (http://github.hubspot.com/pace/docs/welcome/)
 
 **ICONS**
 - FlatIcon (http://www.flaticon.com/)
