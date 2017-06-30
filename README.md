@@ -47,11 +47,12 @@ These are popular extended frameworks on steroids!They usually contain anditiona
 - Texilate.JS (http://textillate.js.org/)
 
 
-**DATAGRID**
+**DATAGRID & Lists **
 - Bootstrap Table (http://bootstrap-table.wenzhixin.net.cn/)
 - JSGrid (http://js-grid.com)
 - AgGrid (https://www.ag-grid.com/)
 - JTable (http://www.jtable.org/)
+- List.js (http://listjs.com)
 
 
 **FORM VALIDATION**
