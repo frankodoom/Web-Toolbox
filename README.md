@@ -27,6 +27,11 @@ These are popular extended frameworks on steroids!They usually contain anditiona
 - StackOverflow (https://www.stackoverflow.com)
 - Codepen (https://codepen.io/)
 
+**TOOLTIP**
+- Popperjs(https://popper.js.org)
+- Opentip (http://www.opentip.org/)
+- Tipped (http://www.tippedjs.com/)
+
 **PROGRESS BARS**
 - NProgress (http://ricostacruz.com/nprogress/)
 - Pace (http://github.hubspot.com/pace/docs/welcome/)
