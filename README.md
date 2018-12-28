@@ -53,16 +53,18 @@ These are popular extended frameworks on steroids!They usually contain anditiona
 - Texilate.JS (http://textillate.js.org/)
 
 
-**DATAGRID & Lists **
+**DATAGRID & Lists**
 - Bootstrap Table (http://bootstrap-table.wenzhixin.net.cn/)
 - JSGrid (http://js-grid.com)
 - AgGrid (https://www.ag-grid.com/)
 - JTable (http://www.jtable.org/)
 - List.js (http://listjs.com)
+- Datatables (https://www.datatables.net)
 
 
 **FORM VALIDATION**
 - Form Validation (http://formvalidation.io/)
+- Parsley (http://parsleyjs.org/)
 
 **CHARTS**
 - ChartJs (http://www.chartjs.org/)
